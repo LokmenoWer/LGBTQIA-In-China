@@ -208,6 +208,7 @@
 - [RostHogsa](https://github.com/Rost-Hogsa33)
 - [ChaosAttractor](https://github.com/lostattractor)
 - [The Nanami](https://github.com/NanamiNakano)
+- [LokmenoWer](https://github.com/LokmenoWer)
 <!-- 结束 LGBT-CN 签名 -->
 <!-- 请不要更改上方的标签 -->
 
